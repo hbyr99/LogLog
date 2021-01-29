@@ -1,0 +1,13 @@
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\bin\Debug\netcoreapp3.1\LogLog.exe
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\bin\Debug\netcoreapp3.1\LogLog.deps.json
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\bin\Debug\netcoreapp3.1\LogLog.runtimeconfig.json
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\bin\Debug\netcoreapp3.1\LogLog.runtimeconfig.dev.json
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\bin\Debug\netcoreapp3.1\LogLog.dll
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\bin\Debug\netcoreapp3.1\LogLog.pdb
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\obj\Debug\netcoreapp3.1\LogLog.csprojAssemblyReference.cache
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\obj\Debug\netcoreapp3.1\LogLog.AssemblyInfoInputs.cache
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\obj\Debug\netcoreapp3.1\LogLog.AssemblyInfo.cs
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\obj\Debug\netcoreapp3.1\LogLog.csproj.CoreCompileInputs.cache
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\obj\Debug\netcoreapp3.1\LogLog.dll
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\obj\Debug\netcoreapp3.1\LogLog.pdb
+C:\Users\Henry Louis\source\repos\LogLog\LogLog\obj\Debug\netcoreapp3.1\LogLog.genruntimeconfig.cache
